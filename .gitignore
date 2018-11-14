@@ -1,13 +1,5 @@
-trainingset/
-validationset/
 data/
-model_save/
-.ipynb_checkpoints/
-__pycache__/
-layers/__pycache__/
-v1/model/
-v2/model/
-v3/model*
-v4_qanet/model/
+*__pycache__
+*.pt
 *.log
-*/model/
+*pyc
