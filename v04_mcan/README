@@ -1,0 +1,3 @@
+add highway network after q_embedding and p_embedding
+
+Multi-Cast attention after encoder layer, so hq hidden_size is 256*2 + 24

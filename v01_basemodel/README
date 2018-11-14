@@ -1,0 +1,31 @@
+# aic_v1.log
+    model_1.pt 
+    acc:0.731
+    model: basemodel, add char embedding 
+
+# aic_v2.log, model.py, train.py
+    model_2.pt
+    model: add slqa model, and the weight of slqa is 1.0
+        
+
+
+# aic2_v2.log, model2.py, train2.py
+    model2_2.pt
+    model: remove ms 5 attention, only hq, qanet, slqa. aand their weights is 1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
