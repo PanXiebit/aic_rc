@@ -1,4 +1,4 @@
-V01:
+### V01:
     - paper: multiway attention networks for modeling sentences pairs
     - add qanet attention(trilinear attenion)
     - add slqa attention (bilinear attention)
@@ -6,13 +6,13 @@ V01:
     - add char embedding and alignment with word embedding
 
 
-V02:
+### V02:
     - QANet
 
-V03:
+### V03:
     - DGCNN, encoder with dilate convolution
 
-V04:
+### V04:
     - multi-cast attention 
 
 BERT:
